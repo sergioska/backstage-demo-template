@@ -49,7 +49,7 @@ spec:
       action: fetch:plain
       input:
         targetPath: ./community
-        url: https://gitlab.com/sergiosicari/slim-exagonal-boilerplate/-/archive/master
+        url: https://github.com/sergioska/terraform-ec2-rds-aws
 
     - id: publish
       name: Publish
